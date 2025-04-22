@@ -32,7 +32,8 @@ I’m a results-driven data analyst with over 2 years of experience in sales and
 ## 📁 Featured Projects
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> [Sales Insights Dashboard – Power BI](https://app.powerbi.com/links/bgaoZFEyXX?ctid=8cb27e41-78c4-4e99-8761-8e71a6432b6a&pbi_source=linkShare)  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> [Customer Churn Analysis – Python & Pandas](https://github.com/data-wizard-AKP/Sales_analysis_with_python/blob/main/Diwali_Sales_Analysis.ipynb)  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> [Diwali_Sales_analysis_with_python
+](https://github.com/data-wizard-AKP/Sales_analysis_with_python/blob/main/Diwali_Sales_Analysis.ipynb)  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />[Retail Store Analytics – SQL & Excel](#)
 
 > *Links coming soon for python and sql as I push these projects to GitHub!*
