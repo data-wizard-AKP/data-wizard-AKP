@@ -31,19 +31,31 @@ I’m a results-driven data analyst with over 2 years of experience in sales and
 
 ## 📁 Featured Projects
 
-- 📊 [Sales Insights Dashboard – Power BI](#)  
+- 📊 [Sales Insights Dashboard – Power BI](https://app.powerbi.com/links/bgaoZFEyXX?ctid=8cb27e41-78c4-4e99-8761-8e71a6432b6a&pbi_source=linkShare)  
 - 🐍 [Customer Churn Analysis – Python & Pandas](#)  
 - 🛒 [Retail Store Analytics – SQL & Excel](#)
 
-> *Links coming soon as I push these projects to GitHub!*
+> *Links coming soon for python and sql as I push these projects to GitHub!*
 
 ---
 
 ## 📚 Learning & Growth
 
 Currently on a mission to master:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-- 📌 Advanced SQL (Joins, CTEs, Window Functions)  
+- 📌 Advanced SQL ⚡ Optimizing SQL queries for better performance  
 - 📌 DAX in Power BI  
 - 📌 Data storytelling & communication  
 - 📌 GitHub project documentation
