@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arun Kumar Patel!
 
-🎯 **Aspiring Data Analyst | Mathematics Graduate | Data Enthusiast**
+🎯 **Data Analyst | Mathematics Graduate | Data Enthusiast**
 
 ---
 
