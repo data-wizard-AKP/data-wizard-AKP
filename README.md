@@ -32,7 +32,7 @@ I’m a results-driven data analyst with over 2 years of experience in sales and
 ## 📁 Featured Projects
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100" /> [Sales Insights Dashboard – Power BI](https://app.powerbi.com/links/bgaoZFEyXX?ctid=8cb27e41-78c4-4e99-8761-8e71a6432b6a&pbi_source=linkShare)  
-- 🐍 [Customer Churn Analysis – Python & Pandas](#)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" /> [Customer Churn Analysis – Python & Pandas](#)  
 - 🛒 [Retail Store Analytics – SQL & Excel](#)
 
 > *Links coming soon for python and sql as I push these projects to GitHub!*
