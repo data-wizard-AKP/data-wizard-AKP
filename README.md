@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 
-I’m a results-driven data analyst with over 2 years of experience in Banking and Finance domain and a solid academic foundation in **Mathematics (B.Sc.)**. I’m passionate about discovering insights through data, solving complex problems, and turning numbers into actionable strategies. Currently enhancing my skills in **MySQL, Power BI, Python, and Excel** to transition into a full-time data analytics role.
+I’m a results-driven data analyst with over 2 years of experience in Banking and Finance domain and a solid academic foundation in **Mathematics (Bachelor of Science)**. I’m passionate about discovering insights through data, solving complex problems, and turning numbers into actionable strategies. Currently enhancing my skills in **MySQL, Power BI, Python, and Excel** to transition into a full-time data analytics role.
 
 ---
 
